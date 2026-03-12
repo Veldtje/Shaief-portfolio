@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shaief Game Store</title>
+<style>
+body{
+font-family:Arial;
+background:black;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+.card{
+background:#1e1e1e;
+padding:20px;
+margin:20px;
+border-radius:10px;
+display:inline-block;
+}
+
+button{
+padding:10px;
+background:lime;
+border:none;
+border-radius:5px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Shaief Game Store</h1>
+<p>Welcome to my PS4 game store</p>
+
+<div class="card">
+<h2>The Last of Us</h2>
+<p>$20</p>
+<button>Buy</button>
+</div>
+
+<div class="card">
+<h2>Rainbow Six Siege</h2>
+<p>$18</p>
+<button>Buy</button>
+</div>
+
+</body>
+</html>
